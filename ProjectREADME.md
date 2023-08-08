@@ -1,7 +1,7 @@
 # README Generator
   ![License: NONE](https://img.shields.io/badge/License-NONE-yellow.svg)
   ## Description
-  This application will generate you a README file based on the input given after a series of questions
+  This is an application that generates a README.md file for your application. It is customely made for your project after just answering a few questions
   ## Table of Contents 
   - [Installation](#installation)
   - [Usage](#usage)
@@ -13,13 +13,16 @@
   - [Contact](#contact)
 
   ## Installation
-  NPM i
+  Use NPM and node index.js
 
   ## Usage
-  Go to the index.js file and then open a terminal and type "node index.js"
+  Go to the terminal and type "node index.js"
+
+  Watch this video for how to use the application! :)
+  https://drive.google.com/file/d/1NvYyyQGWhzNbm7p533zHDoPanD__rFtT/view
 
   ## Contributions
-  GIVE ME MONEY :)
+  Give me money :)
 
   ## Test Instructions 
   undefined
